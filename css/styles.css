@@ -1,0 +1,29 @@
+
+h1 {
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 36px;
+    font-weight: 100;
+
+    font-variation-settings: "wdth" 100;
+
+    transition: all 3s;
+}
+
+h1:hover {
+    font-weight: 900;
+    font-variation-settings: "wdth" 125;
+}
+
+h3 {
+    font-family: "Agrave Pro", cursive;
+    font-size:  24px;
+}
+
+p {
+    font-family: "Nunito", sans-serif;
+}
+
+.maps {
+    width: 50vw;
+    height: 35vw;
+}
