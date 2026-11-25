@@ -1,2 +1,2 @@
 # natweb1week12
-demo for week 12 inclass
+demo for week 12 inclass embedding external resorces
